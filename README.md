@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prashantainkar
 - 👀 I’m interested in software developement
-- 🌱 I’m currently learning laravel,vue.js
+- 🌱 I’m currently learning laravel,vue.js and flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
